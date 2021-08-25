@@ -1,3 +1,5 @@
+# PHP
+
 ```php
 
 <?php 
@@ -36,8 +38,9 @@ function telegram($method, $params){
 
 ?>
 ```
+# Node.js
 
-```js
+```javascript
 var request = require("request");
 require('dotenv').config();
 
